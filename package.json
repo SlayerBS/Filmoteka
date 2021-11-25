@@ -3,21 +3,21 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Jaguar838.github.io/Team-project-Sparks-of-Sharks",
+  "homepage": "https://SlayerBS.github.io/Filmoteka",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Team-project-Sparks-of-Sharks/",
+    "build": "parcel build src/*.html --public-url /Filmoteka/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jaguar838/Team-project-Sparks-of-Sharks.git"
+    "url": "git+https://github.com/SlayerBS/Filmoteka.git"
   },
   "keywords": [],
   "author": "---------------------",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jaguar838/Team-project-Sparks-of-Sharks/issues"
+    "url": "https://github.com/SlayerBS/Filmoteka/issues"
   },
   "devDependencies": {
     "@pnotify/core": "^5.2.0",
